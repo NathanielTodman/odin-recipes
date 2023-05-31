@@ -1,6 +1,6 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #fff4f4;
+    background-color: #fff9f9;
     color: #104d73;
     font-size: 18px;
     margin: 40px;
@@ -26,8 +26,8 @@ a {
 
 img {
     margin: 15px 0px;
-    margin-top: 0px;
-    border-top: 4px solid #975538;
+    margin-top: 6px;
+    border-top: 4px solid #e336a1;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
     box-shadow: 14px 12px 15px -7px #a672725e;
@@ -38,20 +38,18 @@ img {
     margin: 40px 0px;
     margin-top: 0px;
     padding: 10px 20px;
-    background-color: #ffdfd8;
-    border-top: 2px solid #975538;
+    background-color: #f2ffd4;
+    border-top: 2px solid #e336a1;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
     box-shadow: 14px 12px 15px -7px #a672725e;
 }
 
 .card.menu {
+    margin-top: 6px;
     border-top-width: 4px;
 }
 
-.card.alternative {
-    background-color: #ffe0d3;
-}
 
 .card ul {
     padding-inline-start: 20px;
